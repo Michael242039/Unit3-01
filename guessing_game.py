@@ -5,7 +5,7 @@
 
 import ui
 
-CORRECT_ANSWER = 30
+CORRECT_ANSWER = 5
 
 def check_answer_button(sender):
 	#checks if user input equals CORRECT_ANSWER
